@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1529986697 source:c:\users\antonio williams\documents\school\cs foundation\rpggame\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"CharClass.h"
+	"Character.h"
+	"Battle.h"
+
+1528869029 c:\users\antonio williams\documents\school\cs foundation\rpggame\charclass.h
+
+1529987028 source:c:\users\antonio williams\documents\school\cs foundation\rpggame\character.cpp
+	<cstdlib>
+	<iostream>
+	"Character.h"
+
+1529621543 c:\users\antonio williams\documents\school\cs foundation\rpggame\character.h
+	<string>
+	"CharClass.h"
+
+1530417601 source:c:\users\antonio williams\documents\school\cs foundation\rpggame\battle.cpp
+	<iostream>
+	<cstdlib>
+	"Battle.h"
+	"Character.h"
+	"CharClass.h"
+
+1530419118 c:\users\antonio williams\documents\school\cs foundation\rpggame\battle.h
+	"Character.h"
+
